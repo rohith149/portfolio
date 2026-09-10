@@ -1,0 +1,124 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rohith K - Portfolio</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Rohith K</h1>
+        <p>BSc Computer Science Student</p>
+
+        <nav>
+            <a href="#about">About</a> |
+            <a href="#education">Education</a> |
+            <a href="#skills">Skills</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            Hello! My name is Rohith K. I am a BSc Computer Science student.
+            I am interested in computers, programming and technology.
+            I enjoy learning new skills and working on different projects.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Education Section -->
+    <section id="education">
+        <h2>Education</h2>
+
+        <ul>
+            <li>
+                <strong>BSc Computer Science</strong><br>
+                Rajagiri College of Social Sciences
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+
+        <ul>
+            <li>C Programming</li>
+            <li>C++</li>
+            <li>HTML</li>
+            <li>Basic Computer Skills</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <h3>1. Personal Portfolio Website</h3>
+        <p>
+            A simple personal portfolio website created using HTML.
+        </p>
+
+        <h3>2. C Programming Programs</h3>
+        <p>
+            Created basic programs using C, including programs using
+            loops, switch statements and operators.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Hobbies Section -->
+    <section>
+        <h2>Hobbies</h2>
+
+        <ul>
+            <li>Playing Football</li>
+            <li>Listening to Music</li>
+            <li>Learning Programming</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+
+        <p><strong>Name:</strong> Rohith K</p>
+        <p><strong>Location:</strong> Ernakulam, Kerala</p>
+
+        <p>
+            <strong>Email:</strong>
+            <a href="mailto:yourmail@example.com">
+                yourmail@example.com
+            </a>
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Rohith K. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+```
